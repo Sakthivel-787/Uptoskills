@@ -1,0 +1,8 @@
+
+Java is a high-level, object-oriented programming language that was originally developed 
+by Sun Microsystems in 1995 and is now owned by Oracle Corporation. It is designed to be 
+platform-independent, meaning that Java code can run on any device that has a Java Virtual Machine (JVM),
+making it highly versatile for developing cross-platform applications. Java emphasizes object-oriented principles,
+such as encapsulation, inheritance and polymorphism, which allow developers to create modular, reusable and maintainable code. 
+It has a strong memory management system, including automatic garbage collection, which reduces 
+the likelihood of memory leaks.
